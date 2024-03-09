@@ -1,3 +1,8 @@
+**This app was written as part od mobile app development classes at UMCS.    
+App fetch random joke. Then user can like the joke.     
+After that joke is shared on public list and can be read and boosted once by all app users**
+
+
 ![image](https://github.com/ppirog/ShareAJokeV2/assets/126290295/a5afea28-62f0-44d2-8eaa-81ca52b06e7c)
 
 **Public list** 
