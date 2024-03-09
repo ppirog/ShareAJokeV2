@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702535581805",
+    "project_id": "shareajoke-18d90",
+    "storage_bucket": "shareajoke-18d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702535581805:android:84dc5d8cb4252d6f333f64",
+        "android_client_info": {
+          "package_name": "com.example.shareajokev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihseXmNbdw6DG0bOnD4wMXL8ZgUvGWZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

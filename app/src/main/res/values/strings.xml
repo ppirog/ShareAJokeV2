@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ShareAJokeV2</string>
+    <string name="list">ALL JOKES</string>
+    <string name="joke">JOKE</string>
+    <string name="xd">XD</string>
+    <string name="_0">0</string>
+    <string name="example_text">Example Text</string>
+    <string name="go">GO</string>
+    <string name="wyloguj">LOGUOT</string>
+    <string name="my_list">MY JOKES</string>
+    <string name="register">REGISTER</string>
+    <string name="create">CREATE</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="login">LOGIN</string>
+    <string name="back">BACK\n</string>
+</resources>

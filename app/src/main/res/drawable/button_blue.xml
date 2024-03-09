@@ -1,0 +1,22 @@
+<!-- res/drawable/gradient_button.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <gradient
+                android:startColor="#4FD1E5"
+                android:endColor="#7B98EB"
+                android:angle="100" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#3498db"
+                android:centerColor="#4B6CBB"
+                android:endColor="#2980b9"
+                android:angle="100" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+</selector>
